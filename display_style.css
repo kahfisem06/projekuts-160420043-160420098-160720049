@@ -1,0 +1,8 @@
+.card {
+    background-color: aliceblue;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.2);
+    width:fit-content;
+    height:fit-content;
+    padding-left: 50px;
+    padding: 15px 15px 0 15px;
+}
